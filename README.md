@@ -16,3 +16,9 @@
 📫 **Contact Me**:
 - [LinkedIn](https://www.linkedin.com/in/adarsh-kesarwani-6a0812269/)
 - Email: adarshkesarwani912@gmail.com
+
+## 🌟 Skills
+- **Programming Languages**: Python, Java, PHP, C/C++
+- **Web Development**: HTML, CSS, JavaScript, SQL
+- **Machine Learning**: Scikit-Learn, TensorFlow
+- **Tools**: Git, Arduino, NodeMCU
